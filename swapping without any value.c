@@ -8,6 +8,6 @@ scanf("%d%d",&a,&b);
 a=a+b;
 b=a-b;
 a=a-b;
-printf("the the swapped valuee is %d and %d",a,b);
+printf("the the swapped value is %d and %d",a,b);
 return 0;
 }
